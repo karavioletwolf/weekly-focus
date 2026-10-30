@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/Focus/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 14,
+          "index": 11103,
+          "line": 282
+        },
+        "start": {
+          "column": 14,
+          "index": 11103,
+          "line": 282
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/Focus",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/Focus/app/src/main/res/layout/activity_main.xml"
+}

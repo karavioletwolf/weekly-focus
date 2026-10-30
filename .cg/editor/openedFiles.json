@@ -1,0 +1,51 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/Focus/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 14,
+          "index": 11096,
+          "line": 282
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/Focus/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 353,
+          "line": 7
+        },
+        "start": {
+          "column": 0,
+          "index": 353,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/Focus/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 825,
+          "line": 23
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/Focus",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/Focus/app/src/main/AndroidManifest.xml"
+}

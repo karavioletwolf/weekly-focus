@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Theme Colors -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_variant">#3730A3</color>
+    <color name="secondary">#7C3AED</color>
+    <color name="background">#F8FAFC</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="delete_red">#EF4444</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_completed">#94A3B8</color>
+
+    <!-- Status Badges -->
+    <color name="badge_action_bg">#FEE2E2</color>
+    <color name="badge_action_text">#DC2626</color>
+    <color name="badge_progress_bg">#FEF3C7</color>
+    <color name="badge_progress_text">#D97706</color>
+    <color name="badge_upcoming_bg">#E0E7FF</color>
+    <color name="badge_upcoming_text">#4338CA</color>
+    <color name="badge_done_bg">#DCFCE7</color>
+    <color name="badge_done_text">#15803D</color>
+</resources>
